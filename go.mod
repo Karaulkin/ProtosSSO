@@ -1,4 +1,4 @@
-module protos
+module github.com/Karaulkin/protos
 
 go 1.23.2
 
